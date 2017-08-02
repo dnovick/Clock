@@ -1,0 +1,8 @@
+D:\Projects\Clock\Clock\bin\Release\Clock.exe.config
+D:\Projects\Clock\Clock\bin\Release\Clock.exe
+D:\Projects\Clock\Clock\bin\Release\Clock.pdb
+D:\Projects\Clock\Clock\obj\Release\Clock.Form1.resources
+D:\Projects\Clock\Clock\obj\Release\Clock.Properties.Resources.resources
+D:\Projects\Clock\Clock\obj\Release\Clock.csproj.GenerateResource.Cache
+D:\Projects\Clock\Clock\obj\Release\Clock.exe
+D:\Projects\Clock\Clock\obj\Release\Clock.pdb

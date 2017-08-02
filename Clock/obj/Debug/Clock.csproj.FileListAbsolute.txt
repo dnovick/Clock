@@ -1,0 +1,18 @@
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\Clock.exe.config
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\Clock.exe
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\Clock.pdb
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\Clock.Form1.resources
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\Clock.exe
+c:\users\donovick\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\Clock.pdb
+D:\Projects\Clock\Clock\bin\Debug\Clock.exe.config
+D:\Projects\Clock\Clock\bin\Debug\Clock.exe
+D:\Projects\Clock\Clock\bin\Debug\Clock.pdb
+D:\Projects\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+D:\Projects\Clock\Clock\obj\Debug\Clock.Form1.resources
+D:\Projects\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\Projects\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+D:\Projects\Clock\Clock\obj\Debug\Clock.exe
+D:\Projects\Clock\Clock\obj\Debug\Clock.pdb
