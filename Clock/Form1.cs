@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace Clock
 {
+    //Added a comment by Baruch
+
     public partial class Form1 : Form
     {
 
